@@ -1,15 +1,20 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "Jenn"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+After working as an apartment manager for many years, I decided I wanted to go back to school and learn something new. Throughout my life I have always been interested in the newest technology, spending my free time teaching myself to code, playing video games, and checking out the latest tech gadgets.
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+At college, I took a geology class and thought I found my passion. I enjoyed being out in the field with my fellow students, my family, or my friends; using the rocks and landforms to tell the story of Earth’s history. Yet, I couldn’t scratch that technology itch. I spent my time outside of class researching GIS mapping systems, drone technology, and taking extra SQL and Project Management classes at the community college.
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+An encouraging professor set me on the right path to my Computer Science degree, and I am seizing every opportunity that comes my way. My favorite classes are when I am working to make the best C++ projects possible. I enjoy solving problems and learning new things, and there is no shortage of new things to learn in computer science.
 
-Thanks for reading!
+While I’m finishing up my degree, I’m educating children in coding through Google CS First, chess club, and my hexabot project Shellanore. I enjoy sharing that “Ah-ha!” moment when they figure out how to make their coding work.
+
+I’m always looking for opportunities to try something new. I also enjoy connecting with people I can learn from. Feel free to connect with me, even if it’s just to chat!
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/jenniferafelton/)
+
+
